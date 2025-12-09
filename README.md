@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align='center'>Welcome to my profile! 🙌</h1>
 
-<!--
-**Hurakuto/Hurakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 😁 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3 align='center'>I'm Robin DELAYRE and I'm a young french Full-Stack Developper</h3>
+
+I'm currently 17 years old. I started coding since my ninth grade.  
+I started coding because my middle-school introduced an optional class where they introduced the basics of Python, Html and CSS.  
+One of our main project was to replace some pixels by another color to calculate the size of a [blob](https://en.wikipedia.org/wiki/Physarum_polycephalum).  
+We did that for the [CNES](https://cnes.fr/en), especially for [Audrey Dussutour](https://fr.wikipedia.org/wiki/Audrey_Dussutour) who's famous because of her work on the blob.
+
+> [!NOTE]
+> Currently in first year at Coda school in Orléans (France).
+
+> [!NOTE]
+> I'm still working on this...
