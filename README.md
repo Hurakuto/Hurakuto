@@ -25,9 +25,12 @@ I started coding because my middle-school introduced an optional class where the
 - **SQL**
 - **C**
 
-### ⚙️ Frameworks & Tools
+### 🛠️ Tools
 - **Git & GitHub**
 - **Docker (basics)**
+
+### ⚙️ Frameworks
+- *Currently none...*
 
 ### 🎨 Front-End
 - Responsive design
