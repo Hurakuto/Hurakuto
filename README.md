@@ -1,7 +1,5 @@
 <h1 align='center'>Welcome to my profile! 🙌</h1>
 
-<br>
-
 ## 😁 About me
 
 <br>
@@ -10,11 +8,85 @@
 
 I'm currently 17 years old. I started coding since my ninth grade.  
 I started coding because my middle-school introduced an optional class where they introduced the basics of Python, Html and CSS.  
-One of our main project was to replace some pixels by another color to calculate the size of a [blob](https://en.wikipedia.org/wiki/Physarum_polycephalum).  
-We did that for the [CNES](https://cnes.fr/en), especially for [Audrey Dussutour](https://fr.wikipedia.org/wiki/Audrey_Dussutour) who's famous because of her work on the blob.
 
 > [!NOTE]
-> Currently in first year at Coda school in Orléans (France).
+> *Currently in first year at Coda school in Orléans (France).*
 
-> [!NOTE]
-> I'm still working on this...
+---
+
+## 🚀 Skills & Technologies
+
+<br>
+
+### 🖥️ Programming Languages
+- **PHP**
+- **Python**
+- **HTML / CSS**
+- **SQL**
+- **C**
+
+### ⚙️ Frameworks & Tools
+- **Git & GitHub**
+- **Docker (basics)**
+
+### 🎨 Front-End
+- Responsive design
+
+### 🗄️ Back-End
+- Databases (MySQL)  
+- Authentication basics
+
+---
+
+## 📚 Currently Learning
+
+<br>
+
+- **Full-Stack development**
+- **Performance & optimization**
+
+---
+
+## 💡 Projects
+
+<br>
+
+> [!WARNING]
+> *Most of my projects are still in development or private for now.*
+
+
+- **School projects** (Full-Stack)
+
+👉 I plan to publish more projects soon!
+
+---
+
+## 🎯 Goals
+
+<br>
+
+- Become a **solid Full-Stack Developer**
+- Improve my **problem-solving skills**
+- Work on **real-world projects**
+- Gain experience through **internships and collaborations**
+
+---
+
+## 📫 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-delayre) [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.delayre@coda-student.school)
+
+
+---
+
+## 📖 More informations...
+
+<br>
+
+- 📍 Location: **France**
+- 🌐 Open to learning, sharing, and collaborating
+
+---
+
+    
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://) Still working on it...
