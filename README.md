@@ -24,7 +24,8 @@ I started coding because my middle-school introduced an optional class where the
 - **HTML / CSS**
 - **SQL**
 - **C**
-
+- **Java**
+  
 ### 🛠️ Tools
 - **Git & GitHub**
 - **Docker (basics)**
